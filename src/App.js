@@ -1,5 +1,5 @@
 import React from 'react';
-import Restaurent from "./component/Restaurent/Restaurent.js";
+import Restaurent from "./Restaurent/Restaurent.js";
 
 
 const App = () => {
