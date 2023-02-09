@@ -1,13 +1,27 @@
 {
   "files": {
     "main.css": "/Restaurent/static/css/main.4cbf04b0.css",
-    "main.js": "/Restaurent/static/js/main.ce59beb0.js",
+    "main.js": "/Restaurent/static/js/main.58400a10.js",
+    "static/media/pizza.jpg": "/Restaurent/static/media/pizza.beb988c8a812e6be9a20.jpg",
+    "static/media/chola.jpg": "/Restaurent/static/media/chola.c74e8541645e50eabd13.jpg",
+    "static/media/sweet.jpg": "/Restaurent/static/media/sweet.9641a43b567a720ba27c.jpg",
+    "static/media/vegthali.jpg": "/Restaurent/static/media/vegthali.c1f81268d327c321ccf6.jpg",
+    "static/media/nonvegthali.jpg": "/Restaurent/static/media/nonvegthali.317b9ed5f681ab5e9cd8.jpg",
+    "static/media/rotiwithmeat.jpg": "/Restaurent/static/media/rotiwithmeat.50239c69e085a1d30ba4.jpg",
+    "static/media/allupakoida.jpg": "/Restaurent/static/media/allupakoida.19bb4bd0337caa209c6a.jpg",
+    "static/media/puri.jpg": "/Restaurent/static/media/puri.e7c39709cbba343eb716.jpg",
+    "static/media/paubhaji.jpg": "/Restaurent/static/media/paubhaji.1f1fd3ff5f583291a9b9.jpg",
+    "static/media/samosa.jpg": "/Restaurent/static/media/samosa.31e4f81f8a14da5f7799.jpg",
+    "static/media/rajmarice.jpg": "/Restaurent/static/media/rajmarice.1808a67652826eb3eac2.jpg",
+    "static/media/maggi.jpg": "/Restaurent/static/media/maggi.d51edea3324ffc85ac3d.jpg",
+    "static/media/corn.jpg": "/Restaurent/static/media/corn.8f92996cf53ac99ba914.jpg",
+    "static/media/momo.jpg": "/Restaurent/static/media/momo.3492bd6a922ef64235a4.jpg",
     "index.html": "/Restaurent/index.html",
     "main.4cbf04b0.css.map": "/Restaurent/static/css/main.4cbf04b0.css.map",
-    "main.ce59beb0.js.map": "/Restaurent/static/js/main.ce59beb0.js.map"
+    "main.58400a10.js.map": "/Restaurent/static/js/main.58400a10.js.map"
   },
   "entrypoints": [
     "static/css/main.4cbf04b0.css",
-    "static/js/main.ce59beb0.js"
+    "static/js/main.58400a10.js"
   ]
 }
